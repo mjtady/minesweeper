@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="minesweeper" targetName="minesweeper" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55dcb4fa-64fa-4c08-9451-a90a91d246e3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.3" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2esHnyHQP4nIipCTG1ijZdaC6md" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.minesweeper.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/mjtad/CLionProjects/minesweeper",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mjtad\CLionProjects\minesweeper" />
+      <recent name="C:\Users\mjtad\CLionProjects\minesweeper\cmake-build-debug" />
+      <recent name="C:\Users\mjtad\CLionProjects\minesweeper\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="minesweeper" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="minesweeper" TARGET_NAME="minesweeper" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="minesweeper" RUN_TARGET_NAME="minesweeper">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55dcb4fa-64fa-4c08-9451-a90a91d246e3" name="Changes" comment="" />
+      <created>1712686536488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712686536488</updated>
+      <workItem from="1712686539888" duration="3000" />
+      <workItem from="1712686626651" duration="598000" />
+      <workItem from="1712687259735" duration="160000" />
+      <workItem from="1713487851771" duration="11009000" />
+      <workItem from="1713511090381" duration="3000" />
+      <workItem from="1713511248696" duration="2000" />
+      <workItem from="1713511471046" duration="12395000" />
+      <workItem from="1713633281556" duration="3663000" />
+      <workItem from="1713650620212" duration="12195000" />
+      <workItem from="1713766498944" duration="411000" />
+      <workItem from="1713766939580" duration="4000" />
+      <workItem from="1713767230495" duration="4854000" />
+      <workItem from="1713772268910" duration="38846000" />
+      <workItem from="1713857740008" duration="63000" />
+      <workItem from="1713886315646" duration="4988000" />
+      <workItem from="1713898412090" duration="4132000" />
+      <workItem from="1713903304802" duration="15256000" />
+      <workItem from="1713926814544" duration="29940000" />
+      <workItem from="1713985088829" duration="10639000" />
+      <workItem from="1714066213499" duration="2846000" />
+      <workItem from="1714069256697" duration="5456000" />
+      <workItem from="1714076522120" duration="5304000" />
+      <workItem from="1714081936102" duration="9407000" />
+      <workItem from="1714091463196" duration="1093000" />
+      <workItem from="1714092590292" duration="113000" />
+      <workItem from="1714093038188" duration="131000" />
+      <workItem from="1714094170971" duration="230000" />
+      <workItem from="1714094539056" duration="70000" />
+      <workItem from="1714145874786" duration="44000" />
+      <workItem from="1714147306507" duration="273000" />
+      <workItem from="1714179298408" duration="266000" />
+      <workItem from="1714179608148" duration="586000" />
+      <workItem from="1714355794719" duration="644000" />
+      <workItem from="1714405563961" duration="279000" />
+      <workItem from="1714493231658" duration="947000" />
+      <workItem from="1718993796810" duration="6000" />
+      <workItem from="1724351691271" duration="109000" />
+      <workItem from="1725657254273" duration="72000" />
+      <workItem from="1726001876599" duration="95000" />
+      <workItem from="1733540132063" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cfg" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
